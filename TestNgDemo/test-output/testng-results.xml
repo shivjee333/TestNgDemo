@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86" started-at="2020-02-20T18:17:58Z" finished-at="2020-02-20T18:17:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="86" started-at="2020-02-20T18:17:58Z" finished-at="2020-02-20T18:17:58Z">
+      <class name="PriorityDemo">
+        <test-method status="PASS" signature="test_d()[pri:0, instance:PriorityDemo@174d20a]" name="test_d" duration-ms="19" started-at="2020-02-20T18:17:58Z" finished-at="2020-02-20T18:17:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_d -->
+        <test-method status="PASS" signature="test_c()[pri:1, instance:PriorityDemo@174d20a]" name="test_c" duration-ms="5" started-at="2020-02-20T18:17:58Z" finished-at="2020-02-20T18:17:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_c -->
+        <test-method status="PASS" signature="test_b()[pri:2, instance:PriorityDemo@174d20a]" name="test_b" duration-ms="2" started-at="2020-02-20T18:17:58Z" finished-at="2020-02-20T18:17:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_b -->
+        <test-method status="PASS" signature="test_a()[pri:3, instance:PriorityDemo@174d20a]" name="test_a" duration-ms="3" started-at="2020-02-20T18:17:58Z" finished-at="2020-02-20T18:17:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_a -->
+      </class> <!-- PriorityDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
